@@ -25,3 +25,7 @@ python3 browserSearch.py
 ```
 That's it!
 Have fun!
+
+Here's the screenshot of the script output!
+
+![GitHub Logo](https://raw.githubusercontent.com/H34TB145T/Searchy/main/Screenshot.jpeg)
