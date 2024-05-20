@@ -1,6 +1,6 @@
 # Searchy
 
-This little piece of browserSearch file is just for my Python scripting practice. So, please don't take this as seriously!
+This work is just for my Python scripting practice. So, please don't take this as seriously!
 But if I feel like adding new features, I would.
 
 So, this script basically search user's input keywords on Google, YouTube, Spotify and Lyrics. You can choose where you want to search.
