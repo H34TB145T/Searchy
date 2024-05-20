@@ -1,6 +1,6 @@
 '''
 Author : H34TB14ST
-Date   : 25th July 2003
+Date   : 20 May 2024
 Version 1.1
 Description : This little piece of browserSearch file is just for my
               Python scripting practice. So, please don't take this 
