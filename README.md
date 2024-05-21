@@ -15,6 +15,7 @@ pip install colorama requests pyfiglet
 Clone the repository
 ```sh
 git clone https://github.com/H34TB145T/Searchy.git
+cd Searchy
 ```
 
 ## Usage
