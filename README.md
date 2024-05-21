@@ -9,7 +9,7 @@ So, this script basically searches for the user's input keywords on Google, YouT
 
 Requirements
 ```sh
-pip install pyfiglet
+pip install colorama requests pyfiglet
 ```
 
 Clone the repository
